@@ -1,0 +1,22 @@
+{
+  "name": "benchmarkjs",
+  "version": "1.0.0",
+  "description": "Benchmark for javascript apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorsei/BenchmarkJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorsei/BenchmarkJS/issues"
+  },
+  "homepage": "https://github.com/vitorsei/BenchmarkJS#readme",
+  "dependencies": {
+    "benchmark": "^2.1.2"
+  }
+}
